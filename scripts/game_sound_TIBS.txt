@@ -1,0 +1,140 @@
+"TIBS.pt_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/TIBS/TIBS_pt_1.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"TIBS.pt_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/TIBS/TIBS_pt_2.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"TIBS.pt_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/TIBS/TIBS_pt_3.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"TIBS.pt_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/TIBS/TIBS_pt_4.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"TIBS.pt_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/TIBS/TIBS_pt_5.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"TIBS.pt_6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/TIBS/TIBS_pt_6.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"TIBS.pt_7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/TIBS/TIBS_pt_7.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}

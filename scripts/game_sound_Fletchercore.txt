@@ -1,0 +1,20 @@
+"Fletcher_core.pt_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/core/Fletchercore_pt_1.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}

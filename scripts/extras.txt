@@ -1,0 +1,9 @@
+"Extras"
+ { 
+	"test"
+	{
+		"title"		"Demo 1"
+		"subtitle"	"Start Demo"
+		"pic"  		"vgui/chapters/chapter1"
+		"command"	"map connections_map01_demo"
+	}
