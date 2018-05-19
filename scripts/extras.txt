@@ -2,25 +2,23 @@
 { 
 	"p2con"
 	{
-		"title"		"Play"
-		"subtitle"	""
-		"pic"  		"vgui/chapters/chapter1"
-		"map"		"sp_a1_01__intro"
-	}
-	"p2con"
-	{
-		"title"		"______________________"
-		"pic"  		"vgui/chapters/chapter1"
-	}
-	"p2con"
-	{
-		"title"		"IN PROGRESS"
-		"pic"  		"vgui/chapters/chapter1"
-	}
-	"p2con"
-	{
 		"title"		"sp_a1_01"
 		"subtitle"	""
 		"pic"  		"vgui/chapters/chapter1"
-		"map"		"prog_sp_a1_01"
+		"map"		"sp_a1_01"
+	}
+	"p2con"
+	{
+		"title"		"sp_a1_02"
+		"subtitle"	""
+		"pic"  		"vgui/chapters/chapter1"
+		"map"		"sp_a1_02"
+	}
+
+	"p2con"
+	{
+		"title"		"sp_a1_03"
+		"subtitle"	""
+		"pic"  		"vgui/chapters/chapter1"
+		"map"		"sp_a1_03"
 	}
